@@ -49,10 +49,6 @@ Additional business metrics were created:
 - Average portfolio progress is 63.6%.
 - Budget consumption remains below the total allocated budget.
 
-## Author
-
-Khouchou BEN AMARA
-
 ## Dashboard Preview
 
 ![Dashboard Overview](screenshots/dashboard-overview.png)
@@ -60,4 +56,16 @@ Khouchou BEN AMARA
 ## Filter Example
 
 ![Construction Filter](screenshots/dashboard-construction-filter.png)
+
+## Key Findings
+
+- 87% of projects are behind schedule
+- 45 projects are classified as High Risk
+- Average progress reaches 63.6%
+- High-priority projects represent the largest portfolio segment
+
+
+  ## Author
+
+Khouchou BEN AMARA
 
