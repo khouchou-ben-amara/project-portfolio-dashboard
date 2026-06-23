@@ -52,3 +52,12 @@ Additional business metrics were created:
 ## Author
 
 Khouchou BEN AMARA
+
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+## Filter Example
+
+![Construction Filter](screenshots/dashboard-construction-filter.png)
+
