@@ -1,4 +1,4 @@
-# Project Portfolio Performance Dashboard
+# Project Product Portfolio Dashboard
 
 ## Overview
 
